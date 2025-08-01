@@ -6,12 +6,13 @@ body {
   margin-right: auto;
   background-image: url("wallhaven-96o8qd_3840x2160.png");
   background-repeat: no-repeat;
+  background-size: 1920px 1080px;
 }
 h1 {
   color: cyan;
 }
 h2 {
-  color: yellow;
+  color: green;
 }
 h1,
 h2 {
