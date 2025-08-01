@@ -1,8 +1,12 @@
 body {
   color: #ffffed;
   background: #000000;
+  max-width: 800px;
+  margin: auto;
 }
-h1,
+h1 {
+  color: #00ffff;
+}
 h2 {
   color: #00ff00;
 }
